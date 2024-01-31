@@ -3,7 +3,7 @@
     {
       "id": "D8-hEWB",
       "names": {
-        "preferredName": "Brenda",
+        "firstName": "Brenda",
         "lastName": "Soto"
       },
       "username": "bsoto@pursuit.org",
@@ -12,7 +12,7 @@
     {
       "id": "9-FFhs1",
       "names": {
-        "preferredName": "Luis",
+        "firstName": "Luis",
         "lastName": "Tejada"
       },
       "username": "luistejada@pursuit.org",
@@ -21,7 +21,7 @@
     {
       "id": "NQHXKgE",
       "names": {
-        "preferredName": "Sincere",
+        "firstName": "Sincere",
         "lastName": "Clarke"
       },
       "username": "sincereclarke@pursuit.org",
@@ -152,50 +152,62 @@
   ],
   "music": [
     {
+      "id": "34gv2",
       "songName": "Carefree",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706714207/bnzdqqdlduv29tp9nco8.mp3"
     },
     {
+      "id": "vn89w",
       "songName": "At the Shore",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706714046/tzsqnhhcofd6djxy3u7u.mp3"
     },
     {
+      "id": "vmwro",
       "songName": "Train",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721373/zenxvgqrqt9uk8tpxbhm.mp3"
     },
     {
+      "id": "3ns4s",
       "songName": "Stream",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721492/vkrms0n6l80zillw4s1w.mp3"
     },
     {
+      "id": "nvwe8",
       "songName": "Waves",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721527/r5tlvypxbnvmhw9jjpoa.mp3"
     },
     {
+      "id": "7bv82",
       "songName": "Rain",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721561/v4bhvwezzno5hbc80bfp.mp3"
     },
     {
+      "id": "kjb7w",
       "songName": "Ethereal",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721703/ipcjptbhitjvzg3nrlrb.mp3"
     },
     {
+      "id": "rng7y",
       "songName": "Floating Cities",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721774/rqr6uwtylqrfvq8eqqwv.mp3"
     },
     {
+      "id": "fwwk2",
       "songName": "Healing",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721814/igbu0jwpprbeaobq22lj.mp3"
     },
     {
+      "id": "ren89",
       "songName": "Relaxing Piano",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706721910/hhjkzzcalh7jxjbpu4jf.mp3"
     },
     {
+      "id": "whjb7",
       "songName": "Windswept",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706722029/zanlcu8j6pzef5qbfbbg.mp3"
     },
     {
+      "id": "1jn82",
       "songName": "Kalimba",
       "url": "https://res.cloudinary.com/dnqfg86zq/video/upload/v1706722112/jikzdkcycsa3l1rrm8mj.mp3"
     }
