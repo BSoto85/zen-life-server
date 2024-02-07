@@ -6,8 +6,7 @@
         "firstName": "Brenda",
         "lastName": "Soto"
       },
-      "username": "bsoto@pursuit.org",
-      "savedQuotes": []
+      "username": "bsoto@pursuit.org"
     },
     {
       "id": "9-FFhs1",
@@ -15,8 +14,7 @@
         "firstName": "Luis",
         "lastName": "Tejada"
       },
-      "username": "luistejada@pursuit.org",
-      "savedQuotes": []
+      "username": "luistejada@pursuit.org"
     },
     {
       "id": "NQHXKgE",
@@ -24,130 +22,109 @@
         "firstName": "Sincere",
         "lastName": "Clarke"
       },
-      "username": "sincereclarke@pursuit.org",
-      "savedQuotes": []
+      "username": "sincereclarke@pursuit.org"
     }
   ],
   "quotes": [
     {
       "id": "1",
       "author": "Charles R. Swindoll",
-      "quote": "Life is 10% what happens to you and 90% how you react to it.",
-      "authorId": ""
+      "quote": "Life is 10% what happens to you and 90% how you react to it."
     },
     {
       "id": "2",
       "author": "Norman Vincent Peale",
-      "quote": "Change your thoughts, and you change your world.",
-      "authorId": ""
+      "quote": "Change your thoughts, and you change your world."
     },
     {
       "id": "3",
       "author": "Walt Disney",
-      "quote": "All our dreams can come true if we have the courage to pursue them.",
-      "authorId": ""
+      "quote": "All our dreams can come true if we have the courage to pursue them."
     },
     {
       "id": "4",
       "author": "Ben Sweetland",
-      "quote": "Success is a journey not a destination.",
-      "authorId": ""
+      "quote": "Success is a journey not a destination."
     },
     {
       "id": "5",
       "author": "Zig Ziglar",
-      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
-      "authorId": ""
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals."
     },
     {
       "id": "6",
       "author": "Nelson Mandela",
-      "quote": "It always seems impossible until it's done.",
-      "authorId": ""
+      "quote": "It always seems impossible until it's done."
     },
     {
       "id": "7",
       "author": "Maya Angelou",
-      "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
-      "authorId": ""
+      "quote": "Success is liking yourself, liking what you do, and liking how you do it."
     },
     {
       "id": "8",
       "author": "W. Clement Stone",
-      "quote": "Aim for the moon. If you miss, you may hit a star.",
-      "authorId": ""
+      "quote": "Aim for the moon. If you miss, you may hit a star."
     },
     {
       "id": "9",
       "author": "Napoleon Hill",
-      "quote": "If you cannot do great things, do small things in a great way.",
-      "authorId": ""
+      "quote": "If you cannot do great things, do small things in a great way."
     },
     {
       "id": "10",
       "author": "Mallika Tripathi",
-      "quote": "Success only comes to those who dare to attempt.",
-      "authorId": ""
+      "quote": "Success only comes to those who dare to attempt."
     },
     {
       "id": "11",
       "author": "Estée Lauder",
-      "quote": "I never dreamed about success. I worked for it.",
-      "authorId": ""
+      "quote": "I never dreamed about success. I worked for it."
     },
     {
       "id": "12",
       "author": "Milton Berle",
-      "quote": "If opportunity doesn't knock, build a door.",
-      "authorId": ""
+      "quote": "If opportunity doesn't knock, build a door."
     },
     {
       "id": "13",
       "author": "Nina Simone",
-      "quote": "You’ve got to learn to leave the table when love’s no longer being served.",
-      "authorId": ""
+      "quote": "You’ve got to learn to leave the table when love’s no longer being served."
     },
     {
       "id": "14",
       "author": "Gary Zukav",
-      "quote": "Scarcity of self-value cannot be remedied by money, recognition, affection, attention, or influence.",
-      "authorId": ""
+      "quote": "Scarcity of self-value cannot be remedied by money, recognition, affection, attention, or influence."
     },
     {
       "id": "15",
       "author": "Brené Brown",
-      "quote": "Talk to yourself like someone you love.",
-      "authorId": ""
+      "quote": "Talk to yourself like someone you love."
     },
     {
       "id": "16",
       "author": "Lucille Ball",
-      "quote": "Love yourself first and everything else falls into place.",
-      "authorId": ""
+      "quote": "Love yourself first and everything else falls into place."
     },
     {
       "id": "17",
       "author": "Gabrielle Union",
-      "quote": "If you prioritize yourself, you are going to save yourself.",
-      "authorId": ""
+      "quote": "If you prioritize yourself, you are going to save yourself."
     },
     {
       "id": "18",
       "author": "E.E. Cummings",
-      "quote": "It takes courage to grow up and become who you really are.",
-      "authorId": ""
+      "quote": "It takes courage to grow up and become who you really are."
     },
     {
       "id": "19",
       "author": "Toni Morrison",
-      "quote": "You are your best thing.",
-      "authorId": ""
+      "quote": "You are your best thing."
     },
     {
       "id": "20",
       "author": "Edwin Elliot",
-      "quote": "By being yourself you put something wonderful in the world that was not there before.",
-      "authorId": ""
+      "quote": "By being yourself you put something wonderful in the world that was not there before."
     }
   ],
   "music": [
@@ -321,5 +298,6 @@
       "songName": "The Forest Awakens",
       "url": "https://res.cloudinary.com/dvltquoxv/video/upload/v1707188878/Take_5__The_Forest_Awakens_-_Nature_Sounds_for_Stress_Relief_yb0etj.mp4"
     }
-  ]
+  ],
+  "favorites": []
 }
